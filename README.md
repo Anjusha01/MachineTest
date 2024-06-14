@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Create a Quiz App Using react hooks and Timer based state management
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
